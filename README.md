@@ -1,2 +1,2 @@
-# Anushka Raj
-See my portfolio : [Anushka Raj | Codergirl](https://anushka-codergirl.github.io/)
+# Personal Portfolio
+See it live here : [Anushka Raj | Codergirl](https://anushka-codergirl.github.io/)
